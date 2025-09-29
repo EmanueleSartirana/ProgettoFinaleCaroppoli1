@@ -1,0 +1,6 @@
+@ProgettoFinaleCaroppoli1_HostAddress = http://localhost:5042
+
+GET {{ProgettoFinaleCaroppoli1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
